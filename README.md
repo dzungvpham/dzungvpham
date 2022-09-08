@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Dzung and I'm a PhD student in Computer Science at UMass Amherst. Hope you can find something useful here!
 
 <!--
 **dzungvpham/dzungvpham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
